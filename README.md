@@ -13,7 +13,7 @@
 * Dosen Pengampu: Randi Proska Sandra, M.Sc  
 
 # Praktikum Struktur Data  
-  Berikut daftar job sheet di **semester 1**, mata kuliah **Praktikum Algoritma Pemrograman**, dengan pak **Randi Proska, M.Sc** sebagai dosen pengampu  
+  Berikut daftar job sheet di **semester 2**, mata kuliah **Praktikum Struktur Data**, dengan pak **Randi Proska, M.Sc** sebagai dosen pengampu  
 - [**Job Sheet 1**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2001)  
 - [**Job Sheet 2**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2002)  
 - [**Job Sheet 3**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2003)  
