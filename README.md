@@ -14,16 +14,40 @@
 
 # Praktikum Struktur Data  
   Berikut daftar job sheet di **semester 2**, mata kuliah **Praktikum Struktur Data**, dengan pak **Randi Proska, M.Sc** sebagai dosen pengampu  
-- [**Job Sheet 1**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2001) Pengenalan Struktur Data  
-- [**Job Sheet 2**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2002) Array, Pointer dan Struct  
-- [**Job Sheet 3**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2003) Single Linked List  
-- [**Job Sheet 4**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2004) Doubly Linked List  
-- [**Job Sheet 5**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2005) Circular Linked List  
-- [**Job Sheet 6**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2006) Stack  
-- [**Job Sheet 7**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2007) Queue  
-- [**Job Sheet 8**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2008) Bubble and Insertion Sort  
-- [**Job Sheet 9**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2009) Selection and Merge Sort  
-- [**Job Sheet 10**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2010) Shell and Quick Sort  
-- [**Job Sheet 11**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2011) Linear and Binary Search  
-- [**Job Sheet 12**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2012) Tree  
-- [**Job Sheet 13**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2013) Graphs  
+
+-  
+-   
+-   
+- 
+- 
+- 
+- 
+
+
+## [**Job Sheet 1**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2001) - Pengenalan Struktur Data
+Sebuah struktur data adalah cara penyimpanan, penyusunan dan pengaturan data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan secara efisien.Sedangkan Data adalah representasi dari fakta dunia nyata. Fakta atau keterangan tentang kenyataan yang disimpan, direkam atau direpresentasikan dalam bentuk tulisan, suara, gambar, sinyal atau simbol.  
+
+## [**Job Sheet 2**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2002) Array, Pointer dan Struct 
+Array adalah suatu kumpulan nilai yang bertipe data sama. Masing-masing elemen array diakses menggunakan indeks, dan elemen aarray dapat diakses langsung (acak); Pointer adalah variable yang berisi alamat memory sebagai nilainya dan berbeda dengan variable biasa yang berisi nilai tertentu; dan, Struct adalah kumpulan variable (berisi variable yang memiliki tipe-tipe yang berbeda) bernaung dalam satu nama objek yang serumpun.  
+
+## [**Job Sheet 3**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2003) Single Linked List  
+Sebuah linked list merupakan sebuah data yang berupa simpul atau node beralamat yang saling bertaut. Setiap simpul bisa menyimpan data yang mana isinya bisa char, int, string atau tipe data lainnya.  
+
+## [**Job Sheet 4**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2004) Doubly Linked List  
+Doubly Linked List (DLL) berisi pointer tambahan, biasanya disebut pointer sebelumnya (*prev), bersama dengan pointer berikutnya (*next) dan data yang ada dalam daftar tertaut tunggal.  
+
+## [**Job Sheet 5**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2005) Circular Linked List  
+Circular list adalah bentuk lain dari linked list yang memberikan fleksibilitas dalam melewatkan elemen. Circular list bisa berupa single linked list atau double linked list, tetapi tidak mempunyai tail. Pada circular list, pointer next dari elemen terakhir menunjuk ke elemen pertama dan bukan menunjuk NULL.
+
+## [**Job Sheet 6**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2006) Stack  
+Stack adalah sebuah kumpulan data dimana data yang diletakkan di atas data yang lain. Dengan demikian stack adalah struktur data yang menggunakan konsep LIFO. Dengan demikian, elemen terakhir yang disimpan dalam stack menjadi elemen pertama yang diambil.Dalam proses komputasi, untuk meletakkan sebuah elemen pada bagian atas dari stack, disebut push. Dan untuk memindahkan dari tempat yang atas tersebut, disebut pop.
+
+## [**Job Sheet 7**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2007) Queue  
+Sebuah antrian (Queue) sangat berguna pada pemograman struktur data. Hal ini sama dengan membeli tiket pergi nonton ke bioskop. Dimana orang pertama yang memasuki antrian adalah yang pertama mendapat tiket masuk. Antrian menggunakan prinsip FIFO (First in First Out). Item yang mendapatkan giliran pertama adalah item yang pertama keluar.
+
+## [**Job Sheet 8**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2008) Bubble and Insertion Sort  
+## [**Job Sheet 9**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2009) Selection and Merge Sort  
+## [**Job Sheet 10**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2010) Shell and Quick Sort  
+## [**Job Sheet 11**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2011) Linear and Binary Search  
+## [**Job Sheet 12**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2012) Tree  
+## [**Job Sheet 13**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2013) Graphs  
