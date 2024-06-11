@@ -20,23 +20,38 @@
 Sebuah struktur data adalah cara penyimpanan, penyusunan dan pengaturan data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan secara efisien. Sedangkan Data adalah representasi dari fakta dunia nyata. Fakta atau keterangan tentang kenyataan yang disimpan, direkam atau direpresentasikan dalam bentuk tulisan, suara, gambar, sinyal atau simbol.  
 
 ## [**Job Sheet 2**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2002) - Array, Pointer dan Struct  
-![image](https://github.com/Zyxcid/Praktikum_Struktur_Data/assets/121550192/4dfcb098-12ce-40b7-b41d-37dcd0a6fe36)
+![image]()
 
 Array adalah suatu kumpulan nilai yang bertipe data sama. Masing-masing elemen array diakses menggunakan indeks, dan elemen aarray dapat diakses langsung (acak); Pointer adalah variable yang berisi alamat memory sebagai nilainya dan berbeda dengan variable biasa yang berisi nilai tertentu; dan, Struct adalah kumpulan variable (berisi variable yang memiliki tipe-tipe yang berbeda) bernaung dalam satu nama objek yang serumpun.  
 
-## [**Job Sheet 3**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2003) - Single Linked List  
-![image](https://github.com/Zyxcid/Praktikum_Struktur_Data/assets/121550192/cef4ec56-bff3-4303-9128-b4ec0fecfb88)
+## [**Job Sheet 3**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2003) - Singly Linked List  
+![image](https://media.geeksforgeeks.org/wp-content/uploads/singly-linkedlist.png)
 
-Linked list merupakan sebuah data yang berupa simpul atau node beralamat yang saling bertaut. Setiap simpul bisa menyimpan data yang mana isinya bisa char, int, string atau tipe data lainnya.  
+Singly Linked List adalah tipe khusus dari daftar tertaut di mana setiap node hanya memiliki satu tautan yang menunjuk ke node berikutnya dalam daftar tertaut. 
+   
+**Karakteristik Singly Linked List:**
+- Setiap node menyimpan satu nilai dan referensi ke node berikutnya dalam daftar.  
+- List mempunyai kepala, yang merupakan referensi ke simpul pertama dalam daftar, dan ekor, yang merupakan referensi ke simpul terakhir dalam daftar.  
+- Node tidak disimpan dalam blok memori yang berdekatan, melainkan setiap node menyimpan alamat node berikutnya dalam daftar.  
+- Mengakses elemen dalam daftar tertaut tunggal memerlukan penelusuran daftar dari kepala ke node yang diinginkan, karena tidak ada akses langsung ke node tertentu di memori.  
 
 ## [**Job Sheet 4**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2004) - Doubly Linked List  
-Doubly Linked List berisi pointer tambahan, biasanya disebut pointer sebelumnya (*prev), bersama dengan pointer berikutnya (*next) dan data yang ada dalam daftar tertaut tunggal.  
+![image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2014/03/DLL1.png)
+
+Doubly Linked List (DLL) adalah struktur data yang memiliki referensi ke node sebelumnya dan berikutnya dalam daftar. Ini memberikan kemudahan untuk melintasi, menyisipkan dan menghapus node di kedua arah dalam daftar.  
+
+Dalam daftar tertaut ganda, setiap node berisi tiga anggota data:
+- data: Data yang disimpan dalam node  
+- next: Ini mengacu pada referensi ke node berikutnya  
+- prev: Ini mengacu pada referensi ke node sebelumnya  
 
 ## [**Job Sheet 5**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2005) - Circular Linked List  
+![image](https://media.geeksforgeeks.org/wp-content/uploads/20220817185057/Circulardoublylinkedlist-660x155.png)
+
 Circular list adalah bentuk lain dari linked list yang memberikan fleksibilitas dalam melewatkan elemen. Circular list bisa berupa single linked list atau double linked list, tetapi tidak mempunyai tail. Pada circular list, pointer next dari elemen terakhir menunjuk ke elemen pertama dan bukan menunjuk NULL.
 
 ## [**Job Sheet 6**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2006) - Stack  
-![image](https://github.com/Zyxcid/Praktikum_Struktur_Data/assets/121550192/e1b876f2-74c8-40d5-9919-02f61cf403ea)
+![image](https://media.geeksforgeeks.org/wp-content/uploads/20240606180735/Stack-representation-in-Data-Structures-(1).webp)
 
 Stack adalah sebuah kumpulan data dimana data yang diletakkan di atas data yang lain. Dengan demikian stack adalah struktur data yang menggunakan konsep LIFO. Dengan demikian, elemen terakhir yang disimpan dalam stack menjadi elemen pertama yang diambil.Dalam proses komputasi, untuk meletakkan sebuah elemen pada bagian atas dari stack, disebut push. Dan untuk memindahkan dari tempat yang atas tersebut, disebut pop.
 
