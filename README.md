@@ -17,7 +17,7 @@
 ## [**Job Sheet 1**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2001) - Pengenalan Struktur Data
 ![Struktur data icon](https://github.com/Zyxcid/Praktikum_Struktur_Data/assets/121550192/43beeec5-36e8-401b-8c8a-fc685515ee43)
 
-Sebuah struktur data adalah cara penyimpanan, penyusunan dan pengaturan data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan secara efisien.Sedangkan Data adalah representasi dari fakta dunia nyata. Fakta atau keterangan tentang kenyataan yang disimpan, direkam atau direpresentasikan dalam bentuk tulisan, suara, gambar, sinyal atau simbol.  
+Sebuah struktur data adalah cara penyimpanan, penyusunan dan pengaturan data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan secara efisien. Sedangkan Data adalah representasi dari fakta dunia nyata. Fakta atau keterangan tentang kenyataan yang disimpan, direkam atau direpresentasikan dalam bentuk tulisan, suara, gambar, sinyal atau simbol.  
 
 ## [**Job Sheet 2**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2002) Array, Pointer dan Struct  
 ![image](https://github.com/Zyxcid/Praktikum_Struktur_Data/assets/121550192/4dfcb098-12ce-40b7-b41d-37dcd0a6fe36)
