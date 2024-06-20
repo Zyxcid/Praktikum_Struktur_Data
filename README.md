@@ -4,13 +4,32 @@
   </a>
 </div>
 
-# About
+# Tentang
 * Nama: Syahid Nurhidayatullah
 * NIM: 23343056  
 * Prodi: Informatika (NK)  
 * Kode Kelas: INF1.62.2014  
 * Seksi: 202323430156  
 * Dosen Pengampu: Randi Proska Sandra, M.Sc  
+
+<h2 id="navigator">Job Sheet</h2>
+<list>
+  <li><a href="#JS1">Job Sheet 1 - Pengenalan Struktur Data</a></li>
+  <li><a href="#JS2">Job Sheet 2 - Array, Pointer, Structure</a></li>
+  <li><a href="#JS3">Job Sheet 3 - Single Linked List</a></li>
+  <li><a href="#JS4">Job Sheet 4 - Doubly Linked List</a></li>
+  <li><a href="#JS5">Job Sheet 5 - Doubled and Circular Linked List</a></li>
+  <li><a href="#JS6">Job Sheet 6 - Stack</a></li>
+  <li><a href="#JS7">Job Sheet 7 - Queue</a></li>
+  <li><a href="#JS8">Job Sheet 8 - Bubble and Insertion Sort</a></li>
+  <li><a href="#JS9">Job Sheet 9 Select and Merge Sort</a></li>
+  <li><a href="#JS10">Job Sheet 10 - Shell and Quick Sort</a></li>
+  <li><a href="#JS11">Job Sheet 11 - Linear and Binary Sort</a></li>
+  <li><a href="#JS12">Job Sheet 12 - Tree</a></li>
+  <li><a href="#JS13">Job Sheet 13 - Graphs</a></li>
+</list>
+
+<h1 id="JS1">1. Pengenalan Struktur Data</h1>
 
 # Praktikum Struktur Data  
   Berikut daftar job sheet di **semester 2**, mata kuliah **Praktikum Struktur Data**, dengan pak **Randi Proska, M.Sc** sebagai dosen pengampu  
