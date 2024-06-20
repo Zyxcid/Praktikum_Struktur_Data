@@ -69,9 +69,8 @@ Dalam daftar tertaut ganda, setiap node berisi tiga anggota data:
 
 Circular list adalah bentuk lain dari linked list yang memberikan fleksibilitas dalam melewatkan elemen. Circular list bisa berupa single linked list atau double linked list, tetapi tidak mempunyai tail. Pada circular list, pointer next dari elemen terakhir menunjuk ke elemen pertama dan bukan menunjuk NULL.
 
-<h1 id="JS6">6. Stack</h1>
+<h1 id="JS6">Job Sheet 6 - Stack</h1>
 
-## [**Job Sheet 6**](https://github.com/Zyxcid/Praktikum_Struktur_Data/tree/main/Job%20Sheet%2006) - Stack  
 ![image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221219100314/stack.drawio2.png)
 
 Stack adalah sebuah kumpulan data dimana data yang diletakkan di atas data yang lain. Dengan demikian stack adalah struktur data yang menggunakan konsep LIFO. Dengan demikian, elemen terakhir yang disimpan dalam stack menjadi elemen pertama yang diambil.Dalam proses komputasi, untuk meletakkan sebuah elemen pada bagian atas dari stack, disebut push. Dan untuk memindahkan dari tempat yang atas tersebut, disebut pop.
