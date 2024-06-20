@@ -30,7 +30,7 @@ Berikut daftar job sheet di **semester 2**, mata kuliah **Praktikum Struktur Dat
   <li><a href="#JS13">Job Sheet 13 - Graphs</a></li>
 </list>
 
-<h1 id="JS1">Job Sheet 1　- Pengenalan Struktur Data</h1>
+<h1 id="JS1">Job Sheet 1 - Pengenalan Struktur Data</h1>
 
 ![image](https://media.geeksforgeeks.org/wp-content/uploads/20220520182504/ClassificationofDataStructure-660x347.jpg)
 
